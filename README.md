@@ -12,7 +12,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#prerequisites">System Requirements</a></li>
         <li><a href="#installation">Installation</a></li>
         <li><a href="#usage">Usage</a></li>
         <li><a href="#uninstallation">Uninstallation</a></li>
@@ -37,7 +37,7 @@ Game trailer available at : https://www.youtube.com/watch?v=vb1dA26lCKk
 
 <!-- BUILT WITH -->
 
-#### built with
+#### Built With
 
 Unity Engine / Visual Studio
 
@@ -45,12 +45,17 @@ Unity Engine / Visual Studio
 
 ## Getting Started
 
-<!--  prerequisites --> 
+<!--  SYSTEM REQUIREMENTS --> 
 
-### Prerequisites
+### System Requirements
 
-- Apache Maven 3.6.3
-- Docker Version 19.03  + Docker-Compose Version 1.24
+MINIMUM:
+**OS:** Windows 7+, Vista, XP
+**Processor:** 1.7 Ghz
+**Memory:** 512 MB RAM
+**Graphics:** DirectX 8.1 level Graphics Card (requires support for SSE)
+**Storage:** 400 MB available space
+
 
 <!-- INSTALLATION -->
 
@@ -65,7 +70,7 @@ Unity Engine / Visual Studio
    
 ### Usage
 
-At the end of installation, you have the option to directly run the game or you can directly navigate to Hero's Return folder and start the game exe file. Enjoy !!  
+At the end of installation, you have the option to directly run the game or you can directly navigate to Hero's Return folder and start the game's exe file. Enjoy !!  
 
 
 ##### Controls
@@ -80,7 +85,7 @@ In order to remove all files installed, you can run the 'uninstall.exe' file loc
 
 ## License
 
-Distributed under the GNU General Public License v3.0 . See [`LICENSE`]() for more information.
+Distributed under the GNU General Public License v3.0 . See [`LICENSE`](https://github.com/Z4NGA/Hero-s-Return/blob/main/License/GNU%20General%20Public%20License%20v3.0.txt) for more information.
 
 
 
@@ -90,6 +95,6 @@ Distributed under the GNU General Public License v3.0 . See [`LICENSE`]() for mo
   - Mohamed Ibrahim Zgaya 	    - [@Z4NGA] -  ZANGA#3828
 
 
-Game Link: [Hero's Return](https://z4nga.itch.io/heros-return)
+**Game Link:** [Hero's Return](https://z4nga.itch.io/heros-return)
 
 
