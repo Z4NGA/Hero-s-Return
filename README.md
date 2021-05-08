@@ -50,11 +50,11 @@ Unity Engine / Visual Studio
 ### System Requirements
 
 MINIMUM:
-**OS:** Windows 7+, Vista, XP
-**Processor:** 1.7 Ghz
-**Memory:** 512 MB RAM
-**Graphics:** DirectX 8.1 level Graphics Card (requires support for SSE)
-**Storage:** 400 MB available space
+ - **OS:** Windows 7+, Vista, XP
+ - **Processor:** 1.7 Ghz
+ - **Memory:** 512 MB RAM
+ - **Graphics:** DirectX 8.1 level Graphics Card (requires support for SSE)
+ - **Storage:** 400 MB available space
 
 
 <!-- INSTALLATION -->
